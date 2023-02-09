@@ -6,6 +6,13 @@ For now, only one theme is available - **Pink Plexus**
 
 Youtube tutorial: https://youtu.be/MIsFeNOTS20
 
+Links from the video:
+- Turing Smart Screen: https://s.click.aliexpress.com/e/_DCiXKYv
+- Turing Smart Screen website: https://www.turzx.com/
+- Background video: https://pixabay.com/videos/plexus-abstract-background-colorful-57860/
+- Python scripts: https://github.com/mathoudebine/turing-smart-screen-python
+- Photopea: https://www.photopea.com/
+
 ![THUMB_diy_pc_stats_monitor6](https://user-images.githubusercontent.com/117754156/217872900-69d6cd34-8970-44c6-8ba2-b14dbe3949ce.jpg)
 
 
