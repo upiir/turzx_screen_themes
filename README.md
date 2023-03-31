@@ -11,7 +11,8 @@ Links from the video:
 - 5inch screen - https://s.click.aliexpress.com/e/_DFumPj7
 - 3.5inch screen - https://s.click.aliexpress.com/e/_DDkwn7x
 
-![THUMB_turzx_display_clock4](https://user-images.githubusercontent.com/117754156/229147619-e1281570-02ed-4d45-bc4c-4802bed146da.jpg)
+![CAMTASIA_turzx_round_clock (Time 0_10_46;02)](https://user-images.githubusercontent.com/117754156/229147710-6c2fe5a3-5fb6-4dc1-b787-89bb0451551f.png)
+
 
 
 
