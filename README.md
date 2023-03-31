@@ -14,6 +14,10 @@ Links from the video:
 - Photopea: https://www.photopea.com/
 
 
+![THUMB_diy_pc_stats_monitor6](https://user-images.githubusercontent.com/117754156/229149760-d4946bb7-94b9-4136-91fc-f7cd024e51a4.jpg)
+
+
+
 Screenshots from the video:
 ![CAMTASIA_diy_pc_stats_display (Time 0_00_00;00)](https://user-images.githubusercontent.com/117754156/229149595-2ee0b6d0-0844-41cd-9a74-0ce26619a8ca.jpg)
 ![CAMTASIA_diy_pc_stats_display (Time 0_00_01;18)](https://user-images.githubusercontent.com/117754156/229149607-a5571260-6506-4d55-bcbb-422a6cb70167.jpg)
